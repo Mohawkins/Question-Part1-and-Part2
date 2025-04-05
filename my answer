@@ -1,0 +1,29 @@
+#1 What is an API?
+API stand for Application Programming Interface. This is an program that goes through protocols before the system allows you to speak to one another
+
+#2 What is an example we discussed to create an API call locally?
+ Professor Yin you spoke about Postman. How you can go into Postman and place your URL in to verify if you get a respond back.
+
+ #3 What is an example we discussed to create an API call on the cloud? 
+  A example the we discussed to create an API in cloud was Amazon API Gateway.
+
+  #4 What is the difference between FastAPI and creating API from AWS Gateway?
+   FastAPI works in the web Framework in your laptop/computer. You are building your python in the system.
+   AWS Gateway is already created and you just have to place your program in the correct fields and run your program. This is No Framewoek.
+
+   #5 In your own words after watching the video, what are the main steps to create an API call on AWS Gateway?
+      1. Add AWS to your laptop/computer create account
+      2. Go to create a new API than click on reset API
+      3. copy your route name
+      4. go to Lamba and paste your URL
+      5. Click Deploy type dev, than it will give you a URL Link
+      6. go back to Postman send a request to get a respond
+
+    #6 Professionally in the industry, how does developers ship product from one team to another? What's the usage of API here?
+      The developers ship product from one team to another through the API system. 
+      Usage of API are:
+      Frontend Team
+      Backend Team
+      DevOps Team
+      Data/AI Team
+      
